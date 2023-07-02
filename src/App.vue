@@ -12,6 +12,20 @@
 </script>
 <style lang="scss">
 
+
+@media screen and (max-width: 567px) {
+  body{
+    margin: 0;
+    padding: 0;
+    background-color: #141414;
+    color: white;
+    max-width: 100vw;
+    overflow: hidden;
+    cursor: url('../src/assets/img/Handwriting.cur'),auto;
+  }
+  
+}
+
   
   body{
     margin: 0;
