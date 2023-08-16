@@ -2,7 +2,7 @@
     <div class="container-txt">
         <div class="tittle">
             <h2>Full Stack Java</h2>
-            <h1>Developer</h1>
+            <h1>Software Developer</h1>
         </div>
         <p>Hi! I'm Antonio Bravo. I am 28 years old and I live in Buenos Aires. Currently, I am studying to become an
             Informatics Engineer. In the future, I aspire to work as a Computer Software Developer.</p>
